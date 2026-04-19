@@ -13,8 +13,8 @@ export default function RootLayout({
       <body className="bg-black text-white antialiased"><div>
         <nav className="flex flex-col sm:flex-row sm:justify-between items-center gap-4 px-8 py-4 border-b border-gray-800">
   <div className="flex items-center gap-2">
-    <Image src="/logo.png" alt="EVOLV Logo" width={75} height={75} className="rounded-full"/>
-    <span className="font-bold">EVOLV</span>
+    <Image src="/PraxCore.png" alt="EVOLV Logo" width={100} height={100} className="rounded-full"/>
+    <span className="font-bold">PRAXCORE</span>
   </div>
 
   <div className="flex flex-wrap justify-center gap-6">
@@ -23,13 +23,14 @@ export default function RootLayout({
     <Link href="/mvp-lab" className="hover:text-gray-400 transition">MVP Lab</Link> 
     <Link href="/about" className="hover:text-gray-400 transition">About</Link>
     <Link href="/contact" className="hover:text-gray-400 transition">Contact</Link>
-    {/* <Link href="/errorbuddy">ErrorBuddy</Link> */}
+    {/* <Link href="/algoscale">AlgoScale</Link> */}
+    {/* <Link href="/toolkit/execution-engine" className="hover:text-gray-400 transition">Execution Engine</Link> */}
   </div>
 </nav>
         <main className="max-w-4xl mx-auto px-6 py-10">
           {children}
           <footer className="mt-20 border-t border-gray-800 pt-6 text-gray-500 text-sm text-center opacity-80">
-            EVOLV — building in public.
+            PraxCore — less talk, more build.
           </footer>
         </main></div>
       </body>
