@@ -75,7 +75,7 @@ export default function BuildLog() {
       {/* EVOLV SECTION */}
       <div className="mt-12">
         <div className="flex items-center gap-3">
-          <Image src="/gilogo.png" alt="EVOLV" width={32} height={32} />
+          <Image src="/logo.png" alt="EVOLV" width={32} height={32} />
           <h2 className="text-2xl font-semibold">EVOLV (Foundation Phase)</h2>
         </div>
 
