@@ -17,7 +17,7 @@ export default function Contact() {
         <div className="border border-gray-800 rounded-xl p-5 hover:border-gray-600 hover:bg-gray-900 transition">
           <p className="text-sm text-gray-400">📧 Email</p>
           <p className="mt-2 text-lg font-medium break-all">
-            your_email_here@gmail.com
+            pranitchauhan782@gmail.com
           </p>
         </div>
 
@@ -25,7 +25,7 @@ export default function Contact() {
         <div className="border border-gray-800 rounded-xl p-5 hover:border-gray-600 hover:bg-gray-900 transition">
           <p className="text-sm text-gray-400">📱 Instagram</p>
           <p className="mt-2 text-lg font-medium">
-            @your_handle_here
+            @
           </p>
         </div>
 
