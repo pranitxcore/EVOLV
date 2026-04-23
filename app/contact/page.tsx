@@ -25,7 +25,7 @@ export default function Contact() {
         <div className="border border-gray-800 rounded-xl p-5 hover:border-gray-600 hover:bg-gray-900 transition">
           <p className="text-sm text-gray-400">📱 Instagram</p>
           <p className="mt-2 text-lg font-medium">
-            @
+            @praxcore.next
           </p>
         </div>
 
