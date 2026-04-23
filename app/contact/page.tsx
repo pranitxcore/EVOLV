@@ -3,7 +3,7 @@ export default function Contact() {
     <div className="max-w-2xl px-2 sm:px-0">
       
       {/* Header */}
-      <h1 className="text-4xl font-bold">Let’s connect</h1>
+      <h1 className="text-4xl font-bold">Let’s Connect</h1>
 
       <p className="mt-4 text-gray-500">
         PraxCore is built in public. If you have feedback, ideas, or want to collaborate —
