@@ -31,7 +31,7 @@ export default function Contact() {
 
         {/* Open To */}
         <div className="border border-gray-800 rounded-xl p-5 hover:border-gray-600 hover:bg-gray-900 transition">
-          <p className="text-sm text-gray-400">🤝 Open to</p>
+          <p className="text-sm text-gray-400">🤝 Open To</p>
           <p className="mt-2 text-gray-500">
             Feedback · Collaborations · MVP Ideas
           </p>
